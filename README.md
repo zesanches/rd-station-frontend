@@ -51,6 +51,8 @@ Após instalar a versão correta do Node.js, você pode prosseguir com a instala
 - `start:frontend`: Inicia apenas a parte frontend da aplicação em modo de desenvolvimento.
 - `start:backend`: Inicia apenas a parte backend da aplicação em modo de desenvolvimento.
 - `dev`: Inicia simultaneamente a parte frontend e backend da aplicação em modo de desenvolvimento.
+- `test`: Executa os testes em todos os pacotes do monorepo.
+- `test:frontend`: Executa os testes apenas do frontend.
 
 ## Autor
 
